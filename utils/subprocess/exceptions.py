@@ -1,0 +1,2 @@
+class SubprocessException(Exception):
+    pass
